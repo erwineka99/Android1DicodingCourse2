@@ -54,7 +54,18 @@ public class course_2_dicoding extends ActionBarActivity{
         });
 
 
+
+
     }
+    void aku() {
+        int i = 2;
+        System.out.println("Aku");
+    }
+
+
+
+
+
 
 
 }
