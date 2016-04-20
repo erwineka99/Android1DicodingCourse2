@@ -48,6 +48,7 @@ public class course_2_dicoding extends ActionBarActivity{
             public void onClick(View view) {
                 Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:08970432313"));
                 startActivity(intent);
+                System.out.println("Cek Aku");
             }
         });
 
